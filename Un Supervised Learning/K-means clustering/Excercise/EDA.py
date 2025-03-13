@@ -25,7 +25,7 @@ print(df.describe())
 # plt.xticks(rotation=45)
 # plt.show(block=False)
 
-# reate a scatterplot showing the relationship between Phones per 1000 people and the GDP per Capita.
+# Create a scatterplot showing the relationship between Phones per 1000 people and the GDP per Capita.
 # Color these points by Region
 
 # sns.scatterplot(data=df,y='Phones (per 1000)',x='GDP ($ per capita)',hue='Region')
